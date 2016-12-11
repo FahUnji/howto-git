@@ -92,6 +92,18 @@ __จากนั้นก็จะเห็นหน้าถัดไปทำ
 
 ![repository](images/your_repository_edit.png)
 
+# ใช้งานแบบ GUI
+
+(pending.....)
+
+# ใช้งานผ่าน Command line
+
+(pending.....)
+
+![command lind git](https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.png)
+
 ## อ้างอิง
 * https://guides.github.com/activities/hello-world/
 * https://help.github.com/categories/writing-on-github/
+
+
